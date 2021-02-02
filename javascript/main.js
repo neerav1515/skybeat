@@ -1,4 +1,4 @@
-// 1. GRAB THE SEARCH DATA (we did this already)
+// just removing unnecessary comments
 
 
 var UI = {};
