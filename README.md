@@ -14,4 +14,6 @@ To run this application :
  1) download the given code files
  2) run index.html
 
+OR
+Checkout here: https://neerav1515.github.io/skybeat/
 
